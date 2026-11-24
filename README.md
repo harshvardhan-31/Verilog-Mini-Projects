@@ -96,4 +96,4 @@ This repository is a hands-on collection of Verilog mini projects for digital el
 
 ---
 
-**Author:** [harsh31080506](https://github.com/harsh31080506)
+**Author:** [harshvardhan-31](https://github.com/harshvardhan-31)
